@@ -1,0 +1,6 @@
+﻿  Main.c
+C:\Users\Andrey\Desktop\OSI\Lab_1\Main\Main.c(7,30): warning C4081: expected 'newline'; found ';'
+C:\Users\Andrey\Desktop\OSI\Lab_1\Main\Main.c(68,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Andrey\Desktop\OSI\Lab_1\Main\Main.c(68,10): message : consider using '%zd' in the format string
+C:\Users\Andrey\Desktop\OSI\Lab_1\Main\Main.c(62,1): warning C4133: 'initializing': incompatible types - from 'student *' to 'employee *'
+  Main.vcxproj -> C:\Users\Andrey\Desktop\OSI\Lab_1\x64\Debug\Main.exe
